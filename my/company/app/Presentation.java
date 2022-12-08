@@ -1,12 +1,10 @@
-package my.company.app
+package my.company.app;
 
-public class Presentation  {
+public class Presentation {
 
     Long id;
 
     void doPresentation() {
         //
     }
-  
 }
-

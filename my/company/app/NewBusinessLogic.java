@@ -1,6 +1,6 @@
-package my.company.app
+package my.company.app;
 
-public class NewBusinessLogic  {
+public class NewBusinessLogic {
 
     Long id;
 
@@ -8,6 +8,4 @@ public class NewBusinessLogic  {
     void doLogic() {
         //
     }
-  
 }
-

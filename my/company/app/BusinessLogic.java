@@ -1,12 +1,10 @@
-package my.company.app
+package my.company.app;
 
-public class BusinessLogic  {
+public class BusinessLogic {
 
     Long id;
 
     void doLogic() {
         //
     }
-  
 }
-
