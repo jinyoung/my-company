@@ -1,6 +1,6 @@
 package my.company.app;
 
-public class WebPresentation {
+public class WebPresentation extends Presentation{
 
     Long id;
 

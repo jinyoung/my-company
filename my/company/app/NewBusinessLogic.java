@@ -1,6 +1,6 @@
 package my.company.app;
 
-public class NewBusinessLogic {
+public class NewBusinessLogic extends BusinessLogic{
 
     Long id;
 
